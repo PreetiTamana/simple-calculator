@@ -19,3 +19,7 @@ A basic calculator built using **HTML**, **CSS**, and **JavaScript** that perfor
 - **JavaScript** – Logic behind calculations and button functionality
 
 ---
+## 📸 Preview
+
+![Calculator Preview](calculator.png)  
+
